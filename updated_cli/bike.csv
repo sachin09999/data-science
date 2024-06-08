@@ -1,0 +1,62 @@
+,bike_name,price,city,kms_driven,owner,age,power,brand
+62,Royal Enfield Bullet Electra 350cc,107100.0,Delhi,15438.0,Second Owner,3.0,350.0,Royal Enfield
+83,KTM Duke 250cc,130000.0,Gandhidham,17500.0,Second Owner,4.0,250.0,KTM
+173,KTM RC 200cc,118000.0,Delhi,11200.0,Second Owner,5.0,200.0,KTM
+406,Royal Enfield Classic 350cc,115000.0,Delhi,15000.0,Second Owner,5.0,350.0,Royal Enfield
+418,Royal Enfield Classic 350cc,115000.0,Delhi,15000.0,Second Owner,5.0,350.0,Royal Enfield
+487,Royal Enfield Classic Chrome 500cc,128700.0,Bangalore,15900.0,Second Owner,5.0,500.0,Royal Enfield
+941,Royal Enfield Classic 350cc,115700.0,Delhi,15000.0,Second Owner,4.0,350.0,Royal Enfield
+1390,Royal Enfield Classic 350cc,105000.0,Delhi,14000.0,Second Owner,6.0,350.0,Royal Enfield
+1505,Royal Enfield Classic 350cc,105000.0,Delhi,14000.0,Second Owner,6.0,350.0,Royal Enfield
+1512,Royal Enfield Continental GT 535cc,130000.0,Hyderabad,15000.0,Second Owner,6.0,535.0,Royal Enfield
+1626,Royal Enfield Thunderbird 500cc,135000.0,Pune,9800.0,Second Owner,6.0,500.0,Royal Enfield
+1661,KTM Duke 200cc,127000.0,Noida,6700.0,Second Owner,3.0,200.0,KTM
+1664,KTM RC 390cc,150000.0,Jalandhar,9000.0,Second Owner,4.0,390.0,KTM
+1754,Royal Enfield Continental GT 535cc,133100.0,Gorakhpur,2954.0,Second Owner,4.0,535.0,Royal Enfield
+1934,Royal Enfield Thunderbird 350cc,128000.0,Coimbatore,40000.0,Second Owner,6.0,350.0,Royal Enfield
+1976,Royal Enfield Standard 350cc,250000.0,Chennai,1400.0,Second Owner,27.0,350.0,Royal Enfield
+2009,Royal Enfield Continental GT 535cc,133100.0,Gorakhpur,2954.0,Second Owner,4.0,535.0,Royal Enfield
+2044,KTM RC 390cc,150000.0,Jalandhar,9000.0,Second Owner,4.0,390.0,KTM
+2148,Royal Enfield Classic Desert Storm 500cc,135000.0,Gurgaon,19926.0,Second Owner,7.0,500.0,Royal Enfield
+2404,KTM Duke 250cc,120000.0,Chennai,10536.0,Second Owner,4.0,250.0,KTM
+2499,Royal Enfield Classic 500cc,125000.0,Gautam Buddha Nagar,21057.0,Second Owner,5.0,500.0,Royal Enfield
+2528,Royal Enfield Continental GT 535cc,115000.0,Thane,7247.0,Second Owner,6.0,535.0,Royal Enfield
+2565,Royal Enfield Thunderbird 350cc,100000.0,Bangalore,25555.0,Second Owner,5.0,350.0,Royal Enfield
+2727,Royal Enfield Classic 350cc,100000.0,Delhi,14576.0,Second Owner,6.0,350.0,Royal Enfield
+2884,KTM Duke 390cc,110000.0,Noida,27240.0,Second Owner,7.0,390.0,KTM
+3046,Royal Enfield Classic Chrome 500cc,120000.0,Bangalore,48000.0,Second Owner,8.0,500.0,Royal Enfield
+3411,Royal Enfield Thunderbird 350cc,100000.0,Bangalore,25555.0,Second Owner,5.0,350.0,Royal Enfield
+3782,Royal Enfield Himalayan 410cc,119000.0,Ahmedabad,9000.0,Second Owner,5.0,410.0,Royal Enfield
+3787,Royal Enfield Classic 350cc,100000.0,Delhi,13869.0,Second Owner,5.0,350.0,Royal Enfield
+3891,KTM Duke 390cc,110000.0,Noida,27240.0,Second Owner,7.0,390.0,KTM
+4068,KTM RC 390cc,135000.0,Bhopal,15000.0,Second Owner,7.0,390.0,KTM
+4253,Royal Enfield Himalayan 410cc,119000.0,Ahmedabad,9000.0,Second Owner,5.0,410.0,Royal Enfield
+4756,KTM Duke 390cc,140000.0,Hyderabad,37000.0,Second Owner,5.0,390.0,KTM
+5026,Royal Enfield Standard 500cc,109000.0,Mumbai,13110.0,Second Owner,5.0,500.0,Royal Enfield
+5120,KTM Duke 200cc,120000.0,Jhajjar,16000.0,Second Owner,7.0,200.0,KTM
+5149,Royal Enfield Classic 350cc,115000.0,Bangalore,18057.0,Second Owner,5.0,350.0,Royal Enfield
+5498,KTM Duke 390cc,190000.0,Kanpur Nagar,4159.0,Second Owner,4.0,390.0,KTM
+5562,KTM RC 390cc,170000.0,Bangalore,15547.0,Second Owner,4.0,390.0,KTM
+5801,Royal Enfield Classic 350cc,100000.0,Mumbai,17482.0,Second Owner,6.0,350.0,Royal Enfield
+5952,Royal Enfield Thunderbird 350cc,250000.0,Bangalore,15000.0,Second Owner,12.0,350.0,Royal Enfield
+6037,Royal Enfield Machismo 350cc,100000.0,Mumbai,38933.0,Second Owner,14.0,350.0,Royal Enfield
+6650,Royal Enfield Thunderbird X 500cc,194999.0,Surat,5000.0,Second Owner,3.0,500.0,Royal Enfield
+6898,Royal Enfield Himalayan 410cc,150000.0,Bangalore,19600.0,Second Owner,5.0,410.0,Royal Enfield
+6963,Royal Enfield Thunderbird 350cc,250000.0,Bangalore,15000.0,Second Owner,12.0,350.0,Royal Enfield
+7184,Royal Enfield Thunderbird X 500cc,194999.0,Surat,5000.0,Second Owner,3.0,500.0,Royal Enfield
+7224,Royal Enfield Thunderbird 500cc,130000.0,Gurgaon,19200.0,Second Owner,5.0,500.0,Royal Enfield
+7402,Royal Enfield Thunderbird 500cc,130000.0,Gurgaon,19200.0,Second Owner,5.0,500.0,Royal Enfield
+7449,Royal Enfield Himalayan 410cc,150000.0,Bangalore,19600.0,Second Owner,5.0,410.0,Royal Enfield
+7589,Royal Enfield Continental GT 535cc,125000.0,Bhopal,21000.0,Second Owner,6.0,535.0,Royal Enfield
+8005,KTM Duke 390cc,130000.0,Delhi,15000.0,Second Owner,5.0,390.0,KTM
+8031,KTM RC 390cc,145000.0,Vizianagaram,24000.0,Second Owner,6.0,390.0,KTM
+8151,Royal Enfield Thunderbird 350cc,110000.0,Delhi,13975.0,Second Owner,6.0,350.0,Royal Enfield
+8197,KTM Duke 200cc,860000.0,Delhi,12000.0,Second Owner,5.0,200.0,KTM
+8280,Royal Enfield Continental GT 535cc,121000.0,Kota,5300.0,Second Owner,6.0,535.0,Royal Enfield
+8417,KTM RC 390cc,115000.0,Challakere,23000.0,Second Owner,5.0,390.0,KTM
+8818,Royal Enfield Thunderbird 500cc,120000.0,Jaipur,32814.0,Second Owner,8.0,500.0,Royal Enfield
+8823,Royal Enfield Classic Desert Storm 500cc,105000.0,Chennai,22253.0,Second Owner,6.0,500.0,Royal Enfield
+9185,Royal Enfield Classic 500cc Dual Disc,163500.0,Azamgarh,13900.0,Second Owner,3.0,500.0,Royal Enfield
+9196,Royal Enfield Classic 500cc,116900.0,Pune,25362.0,Second Owner,6.0,500.0,Royal Enfield
+9303,Royal Enfield Classic 500cc,116900.0,Pune,25362.0,Second Owner,6.0,500.0,Royal Enfield
+9308,Royal Enfield Classic 500cc Dual Disc,163500.0,Azamgarh,13900.0,Second Owner,3.0,500.0,Royal Enfield
