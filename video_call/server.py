@@ -4,7 +4,7 @@ import socket, cv2, pickle, struct
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 # host_name = socket.gethostname()
 # host_ip = socket.gethostbyname(host_name)
-port = 9999
+port = 8080
 socket_address = ('192.168.254.225', port)
 
 # Socket Bind
